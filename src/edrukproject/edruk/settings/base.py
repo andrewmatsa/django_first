@@ -26,7 +26,7 @@ SECRET_KEY = '+#m((x^f!jeh@=d!6h6pb1i!ftjty!i+xsrcb*a-aq7e@#w5$9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'andrewmatsa.pythonanywhere.com', ]
+ALLOWED_HOSTS = []
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'yourmail@gmail.com'
